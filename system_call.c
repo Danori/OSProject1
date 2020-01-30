@@ -7,7 +7,7 @@
 /**
  * Note that 3.7 GHz for the clock speed is an average of the clock speeds seen on
  * the c4 machines, it may not be the exact clock speed the program is executed at.
- * May cause slight deviation in actual time taken for the context switches.
+ * May cause slight deviation in actual time taken for the system calls.
  */
 #define NUM_SYSCALLS 1000000
 #define CLOCK_SPEED  3700000000
