@@ -1,4 +1,4 @@
-Simply run the command:
+Simply extract the contents to whatever directory, navigat to the directory, and run the command:
 
 make
 
